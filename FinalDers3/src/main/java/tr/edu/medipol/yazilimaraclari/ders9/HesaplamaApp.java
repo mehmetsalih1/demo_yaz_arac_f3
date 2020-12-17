@@ -19,4 +19,9 @@ public class HesaplamaApp {
 	public static int cikarma(int sayi1, int sayi2) {
 		return sayi1 - sayi2;
 	}
+    
+    public static int kareAlma(int sayi ) {
+	return sayi * sayi;
+    }
+	
 }
